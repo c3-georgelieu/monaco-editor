@@ -1,7 +1,7 @@
 {
   "name": "monaco-editor",
   "private": true,
-  "version": "0.20.0",
+  "version": "0.20.1",
   "description": "A browser based code editor",
   "author": "Microsoft Corporation",
   "license": "MIT",
@@ -38,7 +38,7 @@
     "monaco-html": "2.7.0",
     "monaco-json": "2.9.0",
     "monaco-languages": "1.10.0",
-    "monaco-typescript": "3.7.0",
+    "monaco-typescript": "github:c3-georgelieu/monaco-typescript",
     "puppeteer": "^1.15.0",
     "rimraf": "^3.0.2",
     "style-loader": "^1.0.1",
